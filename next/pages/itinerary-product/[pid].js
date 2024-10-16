@@ -143,7 +143,7 @@ export default function GroupCart() {
             <div className={styles.second}>
               <div className={styles.orderTitle}>
                 <h4 style={{ fontSize: '18px', fontWeight: 600 }}>
-                  訂購人資料_ID:{memberId}
+                  訂購人資料:{memberId}
                 </h4>
               </div>
               <div className="row">

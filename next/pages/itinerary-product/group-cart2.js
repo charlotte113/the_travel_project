@@ -74,7 +74,7 @@ export default function GroupCart2() {
                 <div className="travelForm mb-3">
                   <div className={styles.orderTitle}>
                     <h4 style={{ fontSize: '18px', fontWeight: 600 }}>
-                      訂購人資料_ID:{order.memberId}
+                      訂購人資料:{order.memberId}
                     </h4>
                   </div>
                   <div className="row">
