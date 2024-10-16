@@ -88,7 +88,6 @@ export function CartProvider({ children }) {
         const user = JSON.parse(userString);
         // 獲取 member_id 的值
         const memberId = user.member_id;
-        console.log(memberId);
         setMemberId(memberId);
       } }, [memberId]); 
 
@@ -115,7 +114,6 @@ export function CartProvider({ children }) {
                 // 計算可以折扣的金額
                 const discount = Math.min(Math.floor(totalPoints / 300), 100); // 滿300點換成1元，最多折扣100元
                 setDiscountAmount(discount); // 存儲折扣金額
-                console.log(totalPoints)
               }
             })
             .catch((error) => {

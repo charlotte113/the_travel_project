@@ -566,8 +566,9 @@
   padding-bottom: 2.25rem;
 }
 .itineraryProductsImg {
-  width: 21rem;
-  height: 15.625rem;
+  width: 19.95rem;
+  height: 15rem;
+  margin-left: 10px;
 }
 
 .Pagination {
@@ -578,7 +579,7 @@
 
 .itineraryDiv {
   max-width: 90%;
-  margin: 0 auto;
+  margin: 0 auto ;
 }
 .SliderDiv {
   font-family: 'Noto Sans TC', '微軟正黑體', sans-serif;
@@ -672,6 +673,7 @@
   border-width: 80px 90px 0 0;
   border-color: #faa003c2 transparent transparent transparent;
   transform: rotate(-360deg); /* 旋轉三角形 */
+  margin-left: 10px;
 }
 
 .itineraryProductsDays {
@@ -680,8 +682,9 @@
   left: 10px;
   color: white;
   font-weight: bold;
-  z-index: 2; /* 确保文字在三角形上方顯示 */
+  z-index: 2; /* 確保文字在三角形上方顯示 */
   font-size: 18px;
+  margin-left: 5px;
 }
 
 .itineraryH3 {
@@ -730,6 +733,8 @@
   border-left: 1px solid lightgray;
   border-right: 1px solid lightgray;
   background-color: #fff;
+  max-width: 95%;
+  margin-left: 10px;
 }
 
 .itineraryDescription {
@@ -772,15 +777,15 @@
 .flightDetails {
   border-top: 1px solid lightgray;
   border-bottom: 1px solid lightgray;
-  width: 336px;
+  /* width: 336px; */
   padding-left: 8px;
 }
 
 .itineraryProductsItem3 {
   margin-top: 10px;
   width: 336px;
-  margin-bottom: 25px;
-  margin-left: 68px;
+  margin-bottom: 15px;
+  margin-left: 2px;
 }
 
 .itineraryContainer {
@@ -852,8 +857,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 2.25rem;
-  margin-bottom: 6.25rem;
+  margin-top: 8.25rem;
+  margin-bottom: 3.25rem;
 }
 .keyWord {
   font-family: 'Noto Sans TC', '微軟正黑體', sans-serif;
@@ -922,6 +927,7 @@ margin-top: 1.25rem;
     gap: 1.25rem;
     align-items: center;
     justify-content: center;
+    margin-bottom: 3.75rem;
   }
   .SliderPrice {
     padding: 0px;
@@ -950,7 +956,7 @@ margin-top: 1.25rem;
   }
 
   .itineraryProductsItem3 {
-    margin-left: -2rem;
+    margin-left: -2.1rem;
   }
   .itineraryDetails {
     height: 10.875rem;
