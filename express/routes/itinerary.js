@@ -48,7 +48,7 @@ router.all('/', async function (req, res) {
     const price_lte = Number(req.query.price_lte) || 290000
     conditions[3] = price_lte ? `price <= ${price_lte}` : ''
 
-    // 时间范围查询
+    // 時間範圍查詢
     const startDate = req.query.startDate
     const endDate = req.query.endDate
     conditions[4] =

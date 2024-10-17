@@ -216,7 +216,6 @@ export default function List() {
                       <div className="col-6 col-md-3"></div>
                       <div className="col-6 col-md-3">
                         <h6 className={styles.itineraryH6}>
-                          共有 {total} 筆商品
                         </h6>
                       </div>
                       <label className="col-6 col-md-3">
