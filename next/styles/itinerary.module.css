@@ -612,7 +612,7 @@
   border-top: none;
 }
 .itineraryProductsItem2 {
-  border-bottom: 1px solid lightgrey;
+  /* border-bottom: 1px solid lightgrey; */
   position: relative;
   overflow: hidden;
 }
