@@ -27,7 +27,7 @@ function OffCanvasExample({ name, ...props }) {
         </Offcanvas.Header>
         <Offcanvas.Body className={styles.drawerNav}>
           <Link href="/" className={`${styles.navLink} ${styles.drawerLink}`}>
-          關於締杉
+            關於締杉
           </Link>
           <Link href="/itinerary/country-all" className={`${styles.navLink} ${styles.drawerLink}`}>
             各國行程
@@ -35,10 +35,10 @@ function OffCanvasExample({ name, ...props }) {
           <Link href="/lectures" className={`${styles.navLink} ${styles.drawerLink}`}>
             旅遊講座
           </Link>
-          <Link href="/product/product" className={`${styles.navLink} ${styles.drawerLink}`}>
-          締杉商城
+          <Link href="http://localhost:3000/itinerary-product/list" className={`${styles.navLink} ${styles.drawerLink}`}>
+            締杉商城
           </Link>
-          <Link href="/" className={`${styles.navLink} ${styles.drawerLink}`}>優惠活動</Link>
+          {/* <Link href="/" className={`${styles.navLink} ${styles.drawerLink}`}>優惠活動</Link> */}
           <Link href="/members" className={`${styles.navLink} ${styles.drawerLink}`}>
             締杉會員
           </Link>
