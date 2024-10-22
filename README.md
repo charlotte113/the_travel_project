@@ -12,7 +12,7 @@ Express 框架
 第三方支付: 綠界科技ECPAY  
 
 ## 導入模組
-確認有安裝 XAMPP 後,在 XAMPP 控制面板中，開啟 Apache 和 MySQL 。 
+安裝 XAMPP 後,在 XAMPP 控制面板中，開啟 Apache 和 MySQL 。 
 
 在開始使用這個專案之前，你需要先安裝必要的依賴。請在 next 和 express 的資料夾路徑下各自執行以下命令：  
 
