@@ -26,7 +26,7 @@ export default function itineraryCard() {
             </div>
             <div className={styles.moduleH4}>
               <h4 className={styles.h4Country}>
-                星宇豪華經濟艙・世界七大奇景馬丘比丘・印加都城庫斯科・魔幻打卡聖地彩虹山
+                星宇豪華經濟艙・世界七大奇景馬丘比丘・世界遺產納斯卡線・印加都城庫斯科・魔幻打卡聖地彩虹山
               </h4>
             </div>
             <section className={styles.cardDiv3}>
@@ -42,7 +42,6 @@ export default function itineraryCard() {
               </div>
             </section>
           </div>
-
           <div className={styles.moduleItems}>
             <div>
               <Image
@@ -178,7 +177,7 @@ export default function itineraryCard() {
               />
             </div>
             <div className={styles.moduleH3}>
-              <h3 className={styles.h3Country}>閃耀九州X浪漫銀光5日</h3>
+              <h3 className={styles.h3Country}>閃耀九州5日</h3>
             </div>
             <div className={styles.moduleH4}>
               <h4 className={styles.h4Country}>

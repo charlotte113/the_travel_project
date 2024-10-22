@@ -139,7 +139,6 @@
   }
   .moduleItems {
     width: 340px;
-    height: 458px;
     margin: 10px;
   }
   .imgCountry {
@@ -150,10 +149,10 @@
     font-size: 28px;
   }
   .h4Country {
-    font-size: 20px;
+    font-size: 19px;
     font-weight: 600;
     letter-spacing: 0.0625rem;
-    margin-left: 0.625rem;
+    margin-left: 0.3rem;
   }
   .itineraryCountryH2 {
     font-size: 30px;
