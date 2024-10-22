@@ -32,6 +32,6 @@ Express 框架
 ## 網址
 http://localhost:3000  
 
-會員登入  
-帳號: <span style="text-decoration: none;">group3@gmail.com</span>  
-密碼:123456
+旅遊平台會員登入  
+帳號: group3@gmail.com 
+密碼: 123456
