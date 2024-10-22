@@ -23,6 +23,7 @@ Express 框架
 1. 使用者名稱：the_travel_project
 2. 主機名稱：localhost
 3. 密碼:123456
+
 匯入 the_travel_project (1).sql 檔案
 
 ## 開始使用
