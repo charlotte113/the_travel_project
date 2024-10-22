@@ -30,4 +30,8 @@ Express 框架
 在前後端各自終端機輸入 npm run dev
 
 ## 網址
-http://localhost:3000
+http://localhost:3000  
+
+會員登入
+帳號:group3@gmail.com
+密碼:123456
